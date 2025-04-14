@@ -21,15 +21,7 @@
     font-weight: bold;
     }
     
-    .header img {
-    width: 8%;
-    max-width: 5px;
-    height: auto;
-    border: 5px solid #003366;
-    margin: 2px auto;
-    display: block;
-    }
-    
+
     .p {
     font-size: 1.8rem;
     max-width: 8px;
