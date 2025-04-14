@@ -1,6 +1,6 @@
 .body {
-    background-color: #1A1A1A;
-    color: #FFFFFF;
+    background-color: #201f1f;
+    color: #272424;
     font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 1.8;
@@ -10,7 +10,7 @@
     }
     
     .header {
-    background-color: #003366;
+    background-color: #337cc5;
     color: #fff;
     padding: 20px;
     border-bottom: 5px solid #002244;
@@ -26,15 +26,15 @@
     max-width: 5px;
     height: auto;
     border: 5px solid #003366;
-    margin: 20px auto;
+    margin: 2px auto;
     display: block;
     }
     
     .p {
     font-size: 1.8rem;
     max-width: 800px;
-    margin: 10px auto;
-    padding: 10px;
+    margin: 1% auto;
+    padding: 1px;
     }
     
     .img {
