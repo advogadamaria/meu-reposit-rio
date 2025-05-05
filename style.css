@@ -1,6 +1,6 @@
 body {
     background-color: #201f1f;
-    color: #ffffff; /* Corrigido para contraste com o fundo escuro */
+    color: #ffffff; 
     font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 1.8;
@@ -31,7 +31,7 @@ p {
 
 img {
     width: 50%;
-    height: auto; /* Mantém a proporção da imagem */
+    height: auto;
     display: block;
     margin: 20px auto;
     border: 5px solid #003366;
